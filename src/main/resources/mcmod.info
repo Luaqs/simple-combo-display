@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "dev.luaq.combos",
+    "name": "Combos",
+    "description": "Combo display but not really.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://luaq.dev/",
+    "authorList": [
+      "luaq."
+    ],
+    "dependencies": []
+  }
+]
